@@ -2,4 +2,4 @@
 - 👀 I'm interested in web programming
 - 🌱 I am currently learning JavaScript, Node Js Express, Angular & agile methodologies
 - 💞️ I am looking to collaborate on programs developed in the languages ​​mentioned above
-- 📫 
+- 📫 How to reach me on Facebook you can find me as Cristian Perez, on Instagram as cristianpp_08
